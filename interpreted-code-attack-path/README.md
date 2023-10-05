@@ -1,6 +1,6 @@
 # Overview
 
-The purpose of this Docker image it to serve as a target internal service using nodejs.
+Demonstrates the Interpreted Code Attack Path.
 
 # Usage
 
