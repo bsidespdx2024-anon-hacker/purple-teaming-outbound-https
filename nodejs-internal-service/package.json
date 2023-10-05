@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-internal-service",
+  "version": "0.0.1",
+  "description": "NodeJS Internal Service",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
