@@ -14,17 +14,17 @@ This repo is supporting PoC material for the BSidesPDX 2023 talk _Purple Teaming
 
 There are two minimalist targets used to demonstrate techniques:
 
-1. [NodeJS Internal Service](nodejs-app).
-2. Python Internal Service.
+1. [NodeJS Internal Service](nodejs-internal-service).
+2. [Python Internal Service](python-internal-service).
 
 # PoCs
 
 Proof of concepts of attack paths:
 
-1. Interpretted Code Attack Path.
-2. Language Binary Attack Path.
-3. Shared Library Attack Path.
-4. Proxy Attack Path.
+1. [Interpreted Code Attack Path](interpreted-code-attack-path).
+2. [Language Binary Attack Path](language-binary-attack-path).
+3. [Shared Library Attack Path](shared-library-attack-path).
+4. [Proxy Attack Path](proxy-attack-path).
 
 # Contact
 
