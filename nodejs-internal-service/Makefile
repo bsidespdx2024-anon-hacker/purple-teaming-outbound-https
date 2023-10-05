@@ -1,4 +1,4 @@
-IMAGE_NAME=nodejs-internal-service
+IMAGE_NAME=bsides/nodejs-internal-service
 
 build:
 	docker build -t ${IMAGE_NAME} .

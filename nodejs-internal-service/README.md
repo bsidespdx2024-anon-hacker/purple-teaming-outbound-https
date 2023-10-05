@@ -1,6 +1,6 @@
 # Overview
 
-The purpose of this Docker image it to serve as a target internal service using nodejs.
+A target internal service using nodejs. See [PoCs](../README.md#pocs) for the list of attacks against the internal services.
 
 # Usage
 
